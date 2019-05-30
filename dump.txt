@@ -1,0 +1,124 @@
+Bạn nên cấu trúc buổi họp Brainstorm như thế nào?	Nêu ra nhiều ý kiến nhất có thể, không kể đến chất lượng và tính khả thi của ý tưởng, đánh giá từng ý tưởng một để loại trừ ra những ý tưởng không phù hợp 
+Bảng biểu so sánh giữa các lựa chọn thường có những thông tin nào?	Các yếu tố lợi ích và hạn chế của các lựa chọn
+Bước quan trọng nhất khi giải quyết vấn đề là gì?	Xác định đúng vấn đề cần giải quyết
+Các bước giải quyết vấn đề theo phương pháp của Kepner-Tregoe bao gồm?	Phân tích tình hình, Xác định vấn đề cần giải quyết, Xác định nguyên nhân gốc rễ, Đưa ra các giải pháp khả thi, Đánh giá các giải pháp, Lựa chọn giải pháp, Dự đoán rủi ro đi kèm với giải pháp
+Các bước giải quyết vấn đề toàn diện của phương pháp Kepner-Tregoe là gì?	Phân tích tình hình, xác định vấn đề cần giải quyết, tìm hiểu nguyên do gốc rễ, đưa ra các giải pháp, đánh giá và lựa chọn giải pháp, xem xét rủi ro đi kèm giải pháp
+Các bước vẽ sơ đồ Decision Tree	Vẽ sơ đồ với những quyết định và những hệ quả có thể xảy ra, Xác định chi phí mà công ty sẽ chi trả nếu lựa chọn mỗi hướng quyết định, Xác định xác suất xảy ra cho mỗi kết quả có thể xảy ra (vòng tròn) theo tỉ lệ % hoặc tỉ lệ thập phân, Xác định giá trị cuối cùng mà mỗi kết quả có thể xảy ra đem lại cho công ty
+Các nguyên tắc đơn giản khi đưa ra các quyết định thường nhật là gì?	Nếu Nó thật sự không quan trọng thì bỏ qua, tung đồng xu, chọn việc dễ để làm, giao lại quyết định
+Các nguyên tắc đưa ra quyết định dựa trên nhiều tiêu chí là gì?	Lựa chọn giải pháp đáp ứng được mức độ tối thiểu, Lựa chọn giải pháp đáp ứng được mức đội hài lòng, Lựa chọn giải pháp đáp ứng được mức độ quan trọng và mức độ hài lòng, Lựa chọn giải pháp dựa trên tổng điểm của mỗi giải pháp
+Các nguyên tắc khi Brainstorm là gì?	Số lượng hơn chất lượng, Không phán xét hay đánh giá ý tưởng của nhau, Càng có nhiều ý tưởng điên rồ càng tốt, Xây dựng dựa trên ý tưởng của nhau 
+Các phương pháp nào là phương pháp sáng tạo ra ý tưởng?	Brainstorm, Mindmap
+Các yếu tố cần lưu ý khi giải quyết vấn đề là gì?	Tính hệ thống và độ trì trệ của thời gian 
+Cách tính giá trị của mỗi kết quả có thể xảy ra trong Decision Tree như thế nào?	Tính giá trị của mỗi kết quả có thể xảy ra, Cộng tất cả giá trị vừa được tính của mỗi hướng kết quả có thể xảy ra để ra được giá trị của mỗi vòng tròn
+Cần chú ý những điều gì khi Brainstorm?	Số lượng hơn chất lượng, Không phán xét hay đánh giá ý tưởng của nhau, Càng có nhiều ý tưởng điên rồ càng tốt, Xây dựng dựa trên ý tưởng của nhau
+Cần đặt bao nhiêu câu hỏi trong phương pháp 5-Whys	Từ 3 đến 5 câu
+Cần xem xét yếu tố gì khi triển khai để lựa chọn giải pháp phù hợp?	Lợi ích lâu dài của giải pháp
+Chi phí Chìm – Sunk Cost ngụ ý điều gì khi đưa ra quyết định?	Chúng ta không nên để quá khứ ảnh hưởng đến quyết định trong hiện tại
+Chúng ta cần chú ý vào những điều gì khi giải quyết vấn đề?	Xác định nguyên nhân gốc rễ phù hợp, Độ trễ và chất lượng của phản hồi, là những dấu hiệu cho biết có vấn đề xảy ra cần giải quyết, Đưa vấn đề vào trong bức tranh toàn cảnh của hệ thống để giải quyết
+Có những cách tổ chức Brainstorm nào?	Ý tưởng chuyền tay, Brainstorm theo nhóm 
+Có những trường hợp nào có thể diễn ra trong phương pháp 5-Whys?	Phân nhánh nguyên nhân, chuỗi những nguyên nhân
+Để tìm ra nguyên nhân gốc rễ, chúng ta có thể sử dụng những phương pháp nào?	5-Whys, Kepner-Tregoe
+Điểm yếu của phương pháp Mindmap là gì?	Không cho phép chúng ta nhìn ra sự liên kết giữa các biểu hiện và các giải pháp khả thi là gì.
+Định luật Pareto, hay còn gọi là Định luật 80/20, giúp bạn hiểu gì về việc tìm ra nguyên nhân gốc rễ của vấn đề?	Thậm chí khi chúng ta chỉ giải quyết được 20% nguyên nhân, thì hết 80% các vấn đề của doanh nghiệp sẽ được xử lý
+Độ nhạy cảm của các lựa chọn có nghĩa là gì?	Mức độ biến thiên của những phỏng đoán, hay mức độ nhạy cảm với thay đổi
+Giới hạn của phương pháp Decision Tree là gì?	Không phù hợp với những vấn đề quá phức tạp vì sơ đồ sẽ rất cồng kềnh
+Hạn chế của phương pháp Mindmap là gì?	Giới hạn về từ ngữ, không thể diễn đạt dong dài
+Khi bạn có nhiều tiêu chí lựa chọn, cần làm gì để đưa ra quyết định phù hợp?	Xác định các tiêu chí phải có và sẽ tốt hơn nếu có
+Khi giải quyết vấn đề, chúng ta nên tin vào trực giác hay lý luận logic?	Chúng ta nên cân bằng và vận dụng cả trực giác và lý trí
+Làm sao để cân bằng giữa tư duy logic và trực giác?	Dùng logic để đánh giá và dùng trực giác để sáng tạo ra các ý tưởng
+Làm sao để chuẩn bị cho một buổi Brainstorm theo nhóm?	Vài cây bút lông, một tấm bảng trắng hay một mặt phẳng nào đó có thể dán giấy lên được như tấm vách kính trong phòng hay khung cửa sổ đều được. Và cuối cùng, là một vài sấp giấy ghi chú Post-it. 
+Làm sao để đánh giá lựa chọn dựa trên nhiều tiêu chí?	Xác định các tiêu chí để đánh giá các lựa chọn; Định lượng mức độ quan trọng cho các tiêu chí; Xác định mức độ tối thiểu các lựa chọn cần đạt được cho mỗi tiêu chí HOẶC mức độ hài lòng cho mỗi tiêu chí; Đánh giá các lựa chọn trên thang điểm 5; Đưa ra lựa chọn cuối cùng
+Làm sao để lấy ý kiến của đám đông khi đưa ra quyết định?	Hỏi riêng ý kiến từng người một, Chỉ định xem ai là người đưa ra ý kiến mang nhiều rủi ro và và ý kiến mang tính cẩn trọng
+Làm sao để phá vỡ vòng luẩn quẩn khi đặt các câu hỏi trong phương pháp 5-Whys trong môi trường doanh nghiệp?	Quy trách nhiệm về bộ phận quản lý cấp cao để đưa ra quyết định xử lý phù hợp
+Làm sao để thoát khỏi bẫy "đóng khung vấn đề" khi đưa ra quyết định?	Đảm bảo rằng bạn đang so sánh các lựa chọn bằng những tiêu chí giống nhau
+Một vấn đề có thể có bao nhiêu nguyên nhân?	Có nhiều nguyên nhân khác nhau
+Nếu các lựa chọn đều đạt được các tiêu chí bắt buộc phải có, thì chúng ta phải đưa ra quyết định như thế nào?	Bắt đầu xét đến các tiêu chí sẽ tốt hơn nếu có
+Những yếu tố cần lưu ý khi Brainstorm là gì?	Đầu buổi họp nêu ra vấn đề cần giải quyết, Không chen ngang khi người khác đang nêu ra ý kiến, Đánh giá, lựa chọn và kết hợp các ý tưởng sau khi hoàn tất
+Phương pháp 5-Whys là?	Là phương pháp đặt một loạt các câu hỏi Tại Sao, ít nhất 5 lần, để có thể truy ra được nguyên nhân gốc rễ là gì
+Phương pháp Kepner-Tregoe có bao nhiêu bước?	6
+Sai lầm mọi người thường hay mắc phải khi brainstorm ý tưởng là gì?	Mọi người đánh giá ý tưởng đó trước khi liệt kê nó ra
+Trên sơ đồ Decision Tree có những điểm quan trọng nào?	Điểm ra quyết định cuối cùng, Điểm cơ hội, Điểm kết quả cuối cùng
+Vì sao bạn cần xem xét tính hệ thống khi giải quyết vấn đề?	Để lựa chọn giải pháp mang tính bền vững và hợp lý với bức tranh toàn cảnh
+Yếu tố quan trọng nào cần xem xét khi lựa chọn giải pháp phù hợp?	Lợi ích lâu dài của giải pháp
+Nguyên tắc nào sau đây thuộc các nguyên tắc duy trì cân bằng thời gian đã nói đến trong học phần?	Hiểu về sự thật thời gian
+Ý nào đúng khi nói vì sao nên duy trì một công cụ lịch trình duy nhất?	Để không phải mất thời gian cập nhật thông tin cho toàn bộ các công cụ lịch trình/Để không bị quên các thông tin khác nhau/Để không mất thời gian quản lí các công cụ lịch trình
+Nguyên tắc “đường ranh giới” được áp dụng trong mục tiêu phân chia thời gian nào sau đây?	Phân chia thời gian giữa công việc và cuộc sống cá nhân
+Trong phương pháp phân chia thời gian dành cho gia đình và bản thân bạn, ý nào sau đây theo bạn là đúng, khi nói về nguyên tắc phân chia thời gian dành cho gia đình và bản thân?	Nguyên tắc đối thoại trực tiếp
+Lựa chọn ý dưới đây để điền vào chỗ trống cho thích hợp:	Sự thay đổi trạng thái liên tục
+Số thời gian tối thiểu trong một tuần mà bạn cần dành ra cho việc xử lý các công việc và lên kế hoạch chuẩn bị cho kỳ nghỉ là bao nhiêu?	5 giờ
+Để không bị ảnh hưởng đến hiệu suất làm việc do các thiết bị công nghệ, ý nào sau đây là sai?	Hoàn toàn không sử dụng các thiết bị công nghệ/Trao đổi với người khác để họ hiểu bản thân cần có một thời gian không sử dụng các thiết bị công nghệ
+Để không bị ảnh hưởng đến hiệu suất làm việc do các thiết bị công nghệ, ý nào sau đây là đúng?	Tạo ra các khoảng thời gian nhất định không sử dụng công nghệ/Để các thiết bị công nghệ ra khỏi tầm sử dụng để không còn bị phân tâm với các thông báo từ những thiết bị công nghệ đó
+Mục đích của việc tạo ra các thời gian chuyển tiếp giữa trạng thái công việc và cuộc sống cá nhân là gì?	Để bản thân có thời gian làm nguội tâm trí và thật tập trung khi qua trạng thái hoạt động khác
+Ý nào sai khi nói về nguyên tắc “đường ranh giới” được áp dụng trong mục tiêu phân chia thời gian nào sau đây?	Phân chia thời gian giữa giờ làm việc/Phân chia thời gian giữa gia đình và bản thân/Phần chia thời gian dành cho công việc chính và công việc phụ
+Nguyên tắc nào sau đây không thuộc các nguyên tắc duy trì cân bằng thời gian đã nói đến trong học phần?	Đặt ra các hình thức kỷ luật cho bản thân khi không duy trì được cân bằng thời gian
+Sự phát triển của công nghệ là một bước tiến cực kỳ vĩ đại của con người. Nhưng chính công nghệ cũng là một trong những nguyên nhân làm cho con người mất thời gian nếu sử dụng không được phù hợp.	Hiểu về sự thật thời gian
+Các cách nào sau đây là những cách được nói đến trong bài học, giúp tạo nên thời gian chuyển tiếp hiệu quả?	Có một cuộc tản bộ ngắn/Tập thể dục/Tạo một thói quen tích cực
+Lựa chọn ý đúng cho câu hỏi sau: “Tôi cần phải làm gì để giải trí nếu đã lâu rồi tôi chỉ biết có công việc?”.	Liên tưởng lại các sở thích của bản thân trước đây
+Ý nào sai khi nói vì sao nên duy trì một công cụ lịch trình duy nhất?	Để ủng hộ một nhà phát triển duy nhất
+Nguyên tắc nào sau đây đúng, khi nói về các nguyên tắc để làm việc hiệu quả tại nhà	Chú ý yếu tố tiếng ồn
+Các dấu hiệu nào sau đây là biểu hiện của việc bạn làm việc quá sức?	Thiếu sự tập trung trong công việc/Thường xuyên để xảy ra các sai sót trong công việc/Được những người xung quanh nhắc nhở về điều đó
+Tiếng ồn trắng là gì?	Là âm thanh tạo thành rào cản tự nhiên giúp con người tập trung
+Theo bạn, bất lợi của hình thức làm việc tại nhà là gì?	Thiếu điều kiện thuận lợi hỗ trợ cho công việc
+Theo bạn, bất lợi của hình thức làm việc tại nhà là gì?	Dễ dàng bị mất tập trung vì các điều kiện khách quan
+Khi làm việc tại nhà, bạn có thể bị phân tâm bởi các yếu tố có sẵn từ môi trường xung quanh khu vực làm việc của bạn. Yếu tố nào làm bạn có thể bị mất tập trung?	Tiếng ồn trong môi trường sống của bạn
+Với các nhân viên phải thường xuyên di chuyển giữa các nơi để làm việc, việc lên trước kế hoạch và chủ động tạo các hoạt động khác nhằm duy trì các thói quen có lợi. Nguyên tắc nào không nên được áp dụng để thực hiện điều này?	Hiểu về sự thật thời gian
+Bạn nên làm gì khi có nhu cầu vừa học vừa làm?	Sắp xếp thời gian cân bằng với các công việc cần thiết khác/Tạo ra các khoảng thời gian nghỉ ngơi để tái tạo năng lượng/Nhận thức được các vấn đề khó khăn sẽ gặp phải
+Lợi ích của việc yêu thích công việc mình làm là gì?	Luôn có động lực để làm việc
+Nguyên tắc quan trọng khi công việc đòi hỏi bạn phải luôn trong trạng thái sẵn sàng để làm việc là gì?	Tạo ra các khoảng thời gian đệm để nghỉ ngơi và tái tạo năng lượng
+Nguyên tắc nào sai khi công việc đòi hỏi bạn phải luôn trong trạng thái sẵn sàng để làm việc là gì?	Cân nhắc trình bày lên cấp trên để được giải quyết cho làm việc ít đi/Cân nhắc chuyển qua các bộ phận khác/Cân nhắc chuyển sang công việc khác đòi hỏi ít thời gian hơn
+Tác hại của việc trở nên nghiện công việc là gì?	Đánh mất sức khỏe/Không kiểm soát được được khối lượng công việc
+Với các nhân viên phải thường xuyên di chuyển giữa các nơi để làm việc, việc lên trước kế hoạch và chủ động tạo các hoạt động khác nhằm duy trì các thói quen có lợi. Nguyên tắc nào nên được ấp dụng để thực hiện điều này? 	Sử dụng một công cụ lịch trình
+Một nơi làm việc phù hợp với bản thân, có thể giúp cho bạn trở nên sáng tạo hơn. Điều này thỏa mãn yếu tố nào khi làm việc tại nhà?	Chú ý yếu tố tiếng ồn
+Ý nào sau đây đúng khi nói về nguyên tắc xử lý phiền nhiễu	Nguyên tắc 1: Nhóm các công việc tương tự với nhau
+Vì sao bản thân chúng ta lại ngại khi yêu cầu được giúp đỡ từ người khác?	Vì sợ người khác chê cười
+Nhịp sinh học của bản thân, mang lại lợi ích gì cho bạn trong công việc?	Giúp bản thân tập trung cao hơn/Giúp bạn tránh được việc mệt mỏi và chán nản khi làm việc
+Căng thẳng là một yếu tố không ai mong muốn tồn tại trong môi trường làm việc. Tuy nhiên, đôi khi căng thẳng không chỉ xuất phát từ công việc mà còn đến từ chính bản thân chúng ta. Nguyên nhân nào sau đây là đúng?	Giám sát người khác quá nhiều/Hay chen ngang công việc mình cần hỗ trợ vào lịch trình của người khác
+Ý nào là bất lợi khi sử dụng mạng xã hội quá nhiều	Mất thời gian làm việc
+Căng thẳng là một yếu tố không ai mong muốn tồn tại trong môi trường làm việc. Tuy nhiên, đôi khi căng thẳng không chỉ xuất phát từ công việc mà còn đến từ chính bản thân chúng ta. Nguyên nhân nào sau đây là sai?	Tạo động lực cho họ thúc đẩy/Hỗ trợ quá nhiệt tình
+Với các nhân viên phải thường xuyên di chuyển giữa các nơi để làm việc, việc lên trước kế hoạch và chủ động tạo các hoạt động khác nhằm duy trì các thói quen có lợi. Nguyên tắc nào nên được ấp dụng để thực hiện điều này?	
+Để phân định rõ thời gian làm việc tại công ty, bạn nên thực hiện cách nào sau đây?	
+Phương pháp giúp bạn có thể vượt qua được các công việc gây phiền nhiễu là gì?	Nhóm các công việc đó lại và xử lý trong một lần
+Cái bẫy của vòng lặp vô tận về cơ bản chính là phương pháp giao tiếp nào?	Phương pháp giao tiếp một chiều
+Nhận định nào sau đây là đúng nhất?	Một người giao tiếp tốt sẽ khiến người nghe cảm thấy mình là trung tâm của câu chuyện.
+Theo nghiên cứu của UCLA, 55% quá trình giao tiếp liên quan đến yếu tố nào?	Ngôn ngữ cơ thể
+Theo nghiên cứu của UCLA, 38% quá trình giao tiếp liên quan đến yêu tố nào?	Ngữ điệu, âm lượng
+Hội chứng RBS có tên gọi đầy đủ là gì?	Racing Brain Syndrome
+Nguyên nhân nào sau đây không hạn chế chúng ta giao tiếp tốt?	Trải nghiệm thàng công
+Theo nghiên cứu của UCLA, 7% quá trình giao tiếp liên quan đến yếu tố nào?	Ngôn từ
+Trong giao tiếp và thuyết trình thì yếu tố nào sau đây là quan trọng nhất?	Nội dung truyền đạt
+Truyền đạt một ý nghĩ tại một thời điểm sẽ có tác dụng gì trong quá trình giao tiếp?	Giúp giảm tốc độ của não bộ đang làm việc hết công suất và giúp bạn tập trung vào hiện tại
+Phương pháp sử dụng thẻ gợi ý (index cards) đồng nhất với khái niệm nào sau đây?	Truyền đạt một ý nghĩ tại một thời điểm
+Nhận định nào sau đây là không đúng về phần kết luận của một bài thuyết trình?	Kết luận là cơ hội để giới thiệu thông tin mới
+Cái bẫy của vòng lặp vô tận về cơ bản chính là phương pháp giao tiếp nào?	Phương pháp giao tiếp một chiều
+“Đưa ra một luận điểm và kết thúc nó bằng một dấu chấm” chính là phương pháp nào sau đây?	Sử dụng những mẫu câu ngắn trong giao tiếp
+Ví dụ nào sau đây không được xem là một mục đích của một buổi thuyết trình?	Đi mua sắm
+Phương pháp sử dụng thẻ gợi ý (index cards) với mỗi tấm thẻ viết về một ý nghĩ duy nhất sẽ có tác dụng gì?	Mỗi tấm thẻ viết một ý nghĩ sẽ có thể được thay đổi vị trí hoặc loại bỏ dễ dàng khi người nói sắp xếp dòng chảy thông tin
+Xác định mục đích rõ ràng cho bài thuyết trình có mục đích gì?	Tạo ra được hướng đi và sự tập trung cho bài thuyết trình của người nói
+Có bao nhiêu bước trong phương pháp sử dụng thẻ gợi ý (index cards)?	6
+Thông thường một bài thuyết trình hiệu quả sẽ có bao nhiêu luận điểm chính?	3 – 4 luận điểm chính
+Diễn đạt từ ngữ như thế nào sẽ mang lại hiệu quả tốt nhất?	Thay đổi tốc độ và âm lượng giọng nói
+Việc ngưng nghỉ có lợi ích gì đối với người nghe?	Giúp người nghe có thời gian suy nghĩ và thẩm thấu thông tin
+Bằng cách sử dụng những từ như “có vẻ như, có vẻ là”, bạn đang thể hiện bản thân mình như thế nào?	Thiếu quyền lực và sự tự tin
+Hiện tượng “uptalk” là gì?	Là hiện tượng lên giọng ở cuối câu và điều này có thể làm suy yếu thẩm quyền của người nói
+Phương pháp nào sau đây có thể giúp người nói giao tiếp tự tin hơn?	Nói nhẹ nhàng với tất cả chủ đề
+Phương pháp ngưng nghỉ nào sau đây là không hợp lý?	Sau khi vừa truyền đạt một ý nghĩ không quan trọng
+Để đảm bảo mỗi từ sử dụng đều mang lại hiệu quả tốt nhất, nguời nói cần phải tuân theo nguyên tắc nào?	Lựa chọn từ ngữ cẩn thận, diễn tả từ ngữ một cách ý nghĩa và phát âm rõ từng từ
+Việc kéo dài nguyên âm có tác dụng gì trong việc giao tiếp?	Giúp bạn kéo dài cả từ và tạo ra điểm nhấn cho những từ mà bạn muốn người nghe lưu ý
+Tại sao bạn lại nên đứng dậy và di chuyển khi đang nói chuyện điện thoại?	Đứng lên giúp tạo thêm năng lượng cho giọng nói của bạn và giúp bạn đào thải năng lượng lo lắng tiêu cực
+Nhận định nào sau đây là đúng về việc vung tay trong giao tiếp?	Khi vung tay quá thấp người ngồi phía xa có thể sẽ không trông thấy bạn
+Tại sao giao tiếp sử dụng đôi tay làm cho giọng nói của bạn trở nên thú vị hơn?	Do xương bàn tay được kết nối xương giọng nói nên khi sử dụng bàn tay càng nhiều thì giọng nói sẽ càng mạnh mẽ hơn
+Điều nào sau đây nên tránh khi sử dụng ngôn ngữ tay?	Khoanh tay khi đang nói chuyện
+Sử dụng bàn tay trong giao tiếp sẽ mang lại lợi ích nào sau đây?	Sử dụng bàn tay khi nói chuyện giúp chúng ta bình tĩnh
+Việc đảo mắt liên tục khi nói sẽ có tác dụng gì trong giao tiếp?	Khiến người nói trông lo lắng, do dự, và thiếu tự tin
+Khi đang nói về một sự tiến triển thì động tác nào sau đây là phù hợp nhất?	Sử dụng cử chỉ tay chuyển động lăn tròn
+Một nụ cười chân thật và tự nhiên sẽ có những yếu tố nào?	Mép miệng nhếch nhẹ, gò má nâng cao và phần vết chân chim lộ rõ
+Tập trung vào một gương mặt cho một ý nghĩ tại một thời điểm mang lại cho người nói những lợi ích nào?	Giúp người nói bình tĩnh và giữ phong cách truyền đạt của người nói có căn cứ và xác thực
+Nguyên tắc nào sau đây nên áp dụng khi sử dụng bàn tay trong giao tiếp và thuyết trình?	Vung tay “trong ra, dưới lên”
+Biểu hiện nào sau đây là dấu hiệu của sự căng thẳng và lo lắng khi giao tiếp?	Nuốt nước bọt
+Điều nào sau đây có thể giúp bạn khắc phục những nỗi sợ khi trình bày và giao tiếp với đám đông?	Cố gắng bình tĩnh, thở nhẹ nhàng và kiểm soát các cử chỉ một cách nhịp nhàng
+Bản thân nhìn vững chãi và mạnh mẽ sẽ mang lại lợi ích gì cho người nói?	Mang lại cho người nói cảm giác tự tin thật sự
+Nhận định nào sau đây là đúng?	Nội dung thông điệp được truyền đạt và liệu người nghe có hiểu được thông tin mới là điều quan trọng nhất
+Nắm chặt tay lại trong lúc giao tiếp có thể sẽ khiến người nói trông như thế nào?	
+Trong quá trình giao tiếp, khi muốn chuyển sang một chủ đề khác bạn nên làm gì?	
+Tại sao nên ngửa tay khi sử dụng đôi tay trong giao tiếp và thuyết trình?	Lòng bàn tay ngửa bày tỏ sự mong đợi, thu thập ý kiến và lòng bàn tay úp xuống có hàm ý đè nén, dồn ép người khác
+Khi bạn thật sự tự tin thì các hormone nào sẽ trao cho bạn những ngôn ngữ cơ thể mạnh mẽ và giọng nói đầy sự thuyết phục?	
