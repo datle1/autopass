@@ -1,4 +1,4 @@
-# autopass
+# Autopass
 Pass exams of elearning
 
 ## Installation Requirement
@@ -9,6 +9,7 @@ Pass exams of elearning
 
 ## Starting
 - Run "sh run.sh" in terminal at a half of screen
+- Configure browser download default to "questions" directory of Autopass (no prompt)
 - Run browser at rest half of screen and jump into the test of elearning
 - Press "Ctrl + Shift + Y"
 - View result on terminal to finish the test
