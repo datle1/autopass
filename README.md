@@ -7,7 +7,7 @@ Pass exams of elearning
 - Openjdk (>= 1.7)
 - OS: Ubuntu, Centos (Window not tested)
 
-## Start
+## Starting
 - Run "sh run.sh" in terminal at a half of screen
 - Run browser at rest half of screen and jump into the test of elearning
 - Press "Ctrl + Shift + Y"
