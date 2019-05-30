@@ -13,7 +13,7 @@ Split screen to two parts, one for browser to do tests, one for terminal to view
 2. Run browser at rest half of screen
 3. Configure default download directory of browser points to "questions" directory of Autopass. Sure that browser can download file without prompting location of saving.
 4. Jump into the test of elearning and begin doing test
-5. Press "Ctrl + Shift + Y" to save html to "questions" directory
+5. Press "Ctrl + Shift + Y" or click extension icon on browser (Save Page with Single File) to save html to "questions" directory
 6. View result on terminal to finish the test
 7. After finishing, back step 5 with the other test
 
